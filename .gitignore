@@ -1,0 +1,23 @@
+# Generated / downloaded
+moedict.db
+dict-revised.json
+dict-revised.json.xz
+debug.log
+
+# Anki runtime
+meta.json
+user_files/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# macOS
+.DS_Store
+
+# Editors
+.vscode/
+.idea/

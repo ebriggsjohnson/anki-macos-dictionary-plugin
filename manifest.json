@@ -1,0 +1,13 @@
+{
+    "package": "macos_chinese_dict",
+    "name": "macOS Chinese Dictionary Lookup (现代汉语规范词典)",
+    "version": "1.0.0",
+    "author": "Eric",
+    "description": "Look up Chinese words using macOS's built-in 现代汉语规范词典. Batch lookup, CSV export, and direct Anki note creation with pinyin, definitions, and example sentences.",
+    "homepage": "",
+    "mod": 1712956800,
+    "min_point_version": 50,
+    "max_point_version": 231,
+    "branch_index": 0,
+    "conflicts": []
+}

@@ -1,0 +1,11 @@
+{
+  "auto_generate": true,
+  "overwrite_existing": false,
+  "input_field_keywords": ["front", "word", "hanzi", "chinese", "character", "headword", "expression"],
+  "macos_field_keywords": ["xiandai", "hanyu", "simplified", "xiandaihanyu", "現代", "简体", "简"],
+  "macos_def_keywords": ["definition", "def", "meaning"],
+  "moe_field_keywords": ["moe", "traditional", "trad", "繁體", "國語", "国语", "guoyu"],
+  "macos_parts": ["pos", "definitions", "examples"],
+  "moe_parts": ["pos", "definitions", "examples"],
+  "per_note_type": {}
+}
